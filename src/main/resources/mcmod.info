@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nameless",
+  "name": "Nameless",
+  "description": "A special mod for the Nameless No.I server",
+  "version": "1.0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Terpo"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
